@@ -1,2 +1,2 @@
-# LegoAnalyst
+# UdemyAnalysisProject
 Codes for data analytics projects
