@@ -1,2 +1,2 @@
 # UdemyAnalysisProject
-Codes for data analytics projects
+Projects covered in 100 days of python course(Udemy)
